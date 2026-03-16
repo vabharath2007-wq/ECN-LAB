@@ -57,7 +57,11 @@
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
 
+
+
 **MARK SPLITUP:**
+
+![Mark](E1MARK.jpeg)
 
 
 **RESULT:**
